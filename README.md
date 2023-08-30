@@ -41,8 +41,8 @@ To preprocess the data, we removed the 'EIN' and 'Name' columns, which are neith
 - One output layer with 'sigmoid' activation.
 
 **Model Performance**:
-- The model achieved a maximum accuracy of approximately 72.7%.
-- Despite several attempts to optimize the model by adjusting the activation functions, the number of neurons, the number of epochs, and hidden layers, the target model performance of greater than 72.7% was not achieved.
+- The model achieved a maximum accuracy of approximately 72.59%.
+- Despite several attempts to optimize the model by adjusting the activation functions, the number of neurons, the number of epochs, and hidden layers, the target model performance of greater than 72.59% was not achieved.
 
 ## Summary
 
